@@ -1,0 +1,18 @@
+| DICE Simulator Game in Python using Random |
+
+Dice simulator is a project for beginner.
+The Dice Roll Simulation can be done by choosing a random integer between 1 and 6 for which we can use 
+the random module in the Python programming language.
+
+Random Module Python:
+Sometimes we want the computer to pick a random number in a given range, pick a random element from a list,
+pick a random card from a deck, flip a coin, etc. The random module provides access to functions that support
+these types of operations. The random module is another library of functions that can extend the basic
+features of python. Other modules we have seen so far are string, math, time and graphics.
+
+Requirements: 
+-python random library
+-python 3
+
+How to run:
+-Just run the code in any command line
